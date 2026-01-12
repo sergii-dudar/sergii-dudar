@@ -3,6 +3,6 @@
 <p align="left">
   🧑‍💻 Software Engineer <br>
   🤟 GNU Linux & Open Source Enjoyer <br>
-  🖤 Neovim Fun <br>
-  👨‍🏫 I like solving software problems
+  ⌨️ Neovim Fan <br>
+  👨‍🔧 I like solving software problems
 </p>
